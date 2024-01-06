@@ -1,0 +1,71 @@
+{
+    "Normal": {
+        "Taking Inventory": {
+            "Description": "Open the Achievements menu for the first time!",
+            "Type": "Normal"
+        },
+
+        "240p Pixel": {
+            "Description": "View Pixel's Pillows",
+            "Type": "Normal"
+        },
+
+        "Down but not out": {
+            "Description": "Tame a Sawpillow with 1 HP",
+            "Type": "Normal"
+        },
+
+        "nice": {
+            "Description": "69 pillows up ur a-",
+            "Type": "Normal"
+        },
+
+        "Timed out": {
+            "Description": "Tame a RuntimeError Pillow",
+            "Type": "Normal"
+        },
+
+        ":3": {
+            "Description": ">:3 :3 ^_^ O_O",
+            "Type": "Normal"
+        },
+
+        "Gnarpy": {
+            "Description": "Mint's face reveal.. I think?",
+            "Type": "Normal"
+        },
+
+        "Why are you running?!!?": {
+            "Description": "RUN FOR YOU LIFE!!!",
+            "Type": "Normal"
+        }
+
+        
+    },
+    "Secret": {
+        "Calamity": {
+            "Description": "Instantly tame a Sawpillow",
+            "Type": "Secret"
+        },
+
+        "Thou Art Divine": {
+            "Description": "Be gifted a pillow from a higher power",
+            "Type": "Secret"
+        },
+
+        "It's Shiny!": {
+            "Description": "Find a shiny!",
+            "Type": "Secret"
+        },
+
+        "KILL OR BE KILLED": {
+            "Description": "🔥🔪🔪",
+            "Type": "Secret"
+        },
+
+        "An 'Eggcelent' Discovery": {
+            "Description": "🥚✨",
+            "Type": "Secret"
+        }
+    }
+}

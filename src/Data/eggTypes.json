@@ -1,0 +1,60 @@
+{
+    "Normal": {
+       "Chances": {
+        "Normal": 95,
+        "Thicc": 5
+       },
+
+       "BattlesReq": 2
+    },
+    "Rare": {
+    "Chances": {
+        "Normal": 50,
+        "Thicc": 45,
+        "Error": 5
+     },
+
+     "BattlesReq": 4
+    },
+    "Epic": {
+     "Chances": {
+        "Normal": 25,
+        "Thicc": 50,
+        "Error": 20,
+        "RuntimeError": 5
+     },
+
+     "BattlesReq": 6
+    },
+    "Legendary": {
+    "Chances": {
+        "Normal": 15,
+        "Thicc": 20,
+        "Slime": 15,
+        "Error": 60,
+        "RuntimeError": 2,
+        "Alien": 3,
+        "Shiny": 1
+
+     },
+
+     "BattlesReq": 8
+    },
+    "Mythical": {
+    "Chances": {
+        "Alien": 25,
+        "RuntimeError": 25,
+        "Shiny": 50
+     },
+
+    "BattlesReq": 11
+    },
+    "Deity": {
+    "Chances": {
+        "Shiny": 75,
+        "Alien": 25
+     },
+
+     "BattlesReq": 16
+    }
+}
